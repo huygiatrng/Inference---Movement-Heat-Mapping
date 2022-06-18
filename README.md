@@ -4,6 +4,7 @@
 
 **You need to get weight and config files for this process.**
 This project uses yolo model for detecting person of input. So you can choose which classes you want to detect or download which yolo pretrained model files you want for your process. 
+You need to direct config and weight files in your *\*py* file to load the correct model.
 
 Use <code>*heatmapvideo.py*</code> for heat mapping a video.
 **Note:** The input video should be named <code>*videoinput.mp4*</code> and put in main directory.

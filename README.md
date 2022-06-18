@@ -12,8 +12,8 @@ You need to direct config and weight files in your *\*py* file to load the corre
 
 Clone repo and install *requirements.txt*.
 <pre>
-pip install -r requirements.txt
-<pre>
+"pip install -r requirements.txt"
+</pre>
 
 Use <code>*heatmapvideo.py*</code> for heat mapping a video.
 **Note:** The input video should be named <code>*videoinput.mp4*</code> and put in main directory.

@@ -8,8 +8,16 @@ This project uses yolo model for detecting person of input. So you can choose wh
 
 You need to direct config and weight files in your *\*py* file to load the correct model.
 
+**Setup**
+
+Clone repo and install *requirements.txt*.
+<pre>
+pip install -r requirements.txt
+<pre>
+
 Use <code>*heatmapvideo.py*</code> for heat mapping a video.
 **Note:** The input video should be named <code>*videoinput.mp4*</code> and put in main directory.
 
 Use <code>*heatmapimgset.py*</code> for heat mapping a set of images.
 **Note:** The input image set should be put in <code>*imageset*</code> folder in main directory (you must create one if it doesn't exist).
+

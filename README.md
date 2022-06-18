@@ -4,7 +4,7 @@
 
 
 Use <code>*heatmapvideo.py*</code> for heat mapping a video.
-**Note:** The input video should be named *videoinput.mp4* and put in main directory.
+**Note:** The input video should be named <code>*videoinput.mp4*</code> and put in main directory.
 
-Use *heatmapimgset.py* for heat mapping a set of images.
-**Note:** The input image set should be put in *imageset* folder in main directory(you must create one if it doesn't exist).
+Use <code>*heatmapimgset.py*</code> for heat mapping a set of images.
+**Note:** The input image set should be put in <code>*imageset*</code> folder in main directory(you must create one if it doesn't exist).

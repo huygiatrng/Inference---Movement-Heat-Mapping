@@ -6,7 +6,7 @@
 
 This project uses yolo model for detecting person of input. So you can choose which classes you want to detect or download which yolo pretrained model files you want for your process. 
 
-You need to direct config and weight files in your *\*py* file to load the correct model.
+You need to edit config and weight variables in your *\*py* file to load the correct model.
 
 **Setup**
 

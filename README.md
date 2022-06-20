@@ -21,3 +21,4 @@ Use <code>*heatmapvideo.py*</code> for heat mapping a video.
 Use <code>*heatmapimgset.py*</code> for heat mapping a set of images.
 **Note:** The input image set should be put in <code>*imageset*</code> folder in main directory (you must create one if it doesn't exist).
 
+Press <code>"E"</code> to stop the process.

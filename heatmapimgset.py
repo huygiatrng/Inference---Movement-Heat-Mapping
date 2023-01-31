@@ -43,8 +43,7 @@ def load_images_from_folder(folder):
 
 # Get row and column numbers
 def get_row_col(x, y):
-    row = y // cell_size
-    col = x // cell_size
+    row, col = y // cell_size, x // cell_size
     return row, col
 
 
